@@ -12,6 +12,16 @@ Pointwise brings planning-poker style estimation directly to GitHub issues. Team
 
 **Estimate together. Review with Copilot. Stay close to the code.**
 
+### Install Pointwise
+
+[**Install Pointwise from GitHub**](https://github.com/apps/pointwise-estimation)
+
+Use the GitHub App page to install Pointwise for your account or organisation and choose the repositories you want to make available.
+
+### Open the app
+
+[Open Pointwise](https://pointwise-estimates.tech)
+
 ### What it does
 
 - Select a GitHub repository and issue.
@@ -20,12 +30,6 @@ Pointwise brings planning-poker style estimation directly to GitHub issues. Team
 - Ask GitHub Copilot to review the task using issue and repository context.
 - Compare the team's estimate with Copilot's advisory estimate and assessment.
 - Copy or export the resulting review for use in planning and refinement.
-
-### Try Pointwise
-
-[Open Pointwise](https://pointwise-estimates.tech)
-
-Pointwise has been submitted for review for publication on the GitHub Marketplace.
 
 ### Support & privacy
 
