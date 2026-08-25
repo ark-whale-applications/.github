@@ -1,4 +1,4 @@
-# Ark & Whale Applications
+# Ark&Whale
 
 **Developer tools for teams that want less ceremony and better decisions.**
 
