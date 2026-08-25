@@ -18,10 +18,6 @@ Pointwise brings planning-poker style estimation directly to GitHub issues. Team
 
 Use the GitHub App page to install Pointwise for your account or organisation and choose the repositories you want to make available.
 
-### Open the app
-
-[Open Pointwise](https://pointwise-estimates.tech)
-
 ### What it does
 
 - Select a GitHub repository and issue.
